@@ -1,0 +1,12 @@
+2026-02-13 09:28:08,786 - INFO - Employee profile created | Name: Srujana | ID: EMP101
+2026-02-13 09:28:08,786 - INFO - Leave recorded for Srujana | Days: 2
+2026-02-13 09:28:08,786 - INFO - Salary calculated for Srujana | Basic: 50000 | HRA: 10000.0 | Deduction: 2000 | Net: 58000.0
+2026-02-13 09:28:08,786 - INFO - ---------- PAYSLIP ----------
+2026-02-13 09:28:08,786 - INFO - Company       : Qspiders Company
+2026-02-13 09:28:08,786 - INFO - Employee Name : Srujana
+2026-02-13 09:28:08,786 - INFO - Employee ID   : EMP101
+2026-02-13 09:28:08,786 - INFO - Basic Salary  : 50000
+2026-02-13 09:28:08,786 - INFO - Leaves Taken  : 2
+2026-02-13 09:28:08,786 - INFO - Net Salary    : 58000.0
+2026-02-13 09:28:08,786 - INFO - -----------------------------
+2026-02-13 09:28:08,786 - INFO - HRA percentage updated to 25

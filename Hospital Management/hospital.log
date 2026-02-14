@@ -1,0 +1,15 @@
+2026-02-12 20:29:41,686 - WARNING - Already Admitted: Akshara
+2026-02-12 20:29:41,686 - INFO - Clear the bill before discharge for patient with name: Akshara
+2026-02-12 20:30:02,888 - ERROR - Payment insufficient, Cannot discharge patient with name: Akshara
+2026-02-12 20:30:02,888 - INFO - Clear the bill before discharge for patient with name: Akshara
+2026-02-12 20:30:10,035 - INFO - Patient discharged with name: Akshara
+2026-02-12 20:30:10,035 - INFO - Patient Admitted with name: Akshara
+2026-02-12 20:31:22,724 - WARNING - Already Admitted: Akshara
+2026-02-12 20:32:19,503 - WARNING - Already Admitted: Akshara
+2026-02-12 20:32:41,692 - WARNING - Entered wrong fee: -1000.5
+2026-02-12 20:32:41,694 - WARNING - Already Admitted: Akshara
+2026-02-12 20:51:30,961 - INFO - Patient profile created for Srujana
+2026-02-12 20:51:30,961 - INFO - Patient admitted: Srujana
+2026-02-12 20:51:30,961 - INFO - Bill calculated for Srujana | Days: 3 | Amount: 3500
+2026-02-12 20:51:30,961 - INFO - Bill paid for Srujana | Amount: 3500
+2026-02-12 20:51:30,961 - INFO - Patient discharged: Srujana

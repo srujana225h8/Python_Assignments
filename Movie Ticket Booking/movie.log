@@ -1,0 +1,5 @@
+2026-02-14 10:41:07,415 - INFO - Movie ticket profile created for Srujana
+2026-02-14 10:41:07,415 - INFO - Ticket price calculated for Srujana | Tickets: 3 | Base: 600 | Tax: 30.0 | Total: 630.0
+2026-02-14 10:41:07,415 - INFO - Seats booked for Srujana | Paid: 1000 | Change: 370.0
+2026-02-14 10:41:07,415 - INFO - Booking cancelled for Srujana
+2026-02-14 10:41:07,415 - INFO - Ticket price updated to 250

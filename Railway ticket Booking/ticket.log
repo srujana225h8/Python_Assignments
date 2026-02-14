@@ -1,0 +1,9 @@
+2026-02-13 09:47:38,259 - INFO - Ticket profile created for Srujana
+2026-02-13 09:47:38,259 - INFO - Fare calculated for Srujana | Distance: 10 | Basic: 1000 | Tax: 50.0 | Total: 1050.0
+2026-02-13 09:47:38,259 - ERROR - Insufficient payment for Srujana | Paid: 500 | Required: 1050.0
+2026-02-13 09:47:38,259 - WARNING - Cancellation failed. Ticket not booked for Srujana
+2026-02-13 09:47:38,264 - INFO - Base fare updated to 120
+2026-02-13 09:47:38,264 - INFO - Ticket profile created for Akshara
+2026-02-13 09:47:38,264 - INFO - Fare calculated for Akshara | Distance: 45 | Basic: 5400 | Tax: 270.0 | Total: 5670.0
+2026-02-13 09:47:38,264 - ERROR - Insufficient payment for Akshara | Paid: 20 | Required: 5670.0
+2026-02-13 09:47:38,264 - WARNING - Cancellation failed. Ticket not booked for Akshara

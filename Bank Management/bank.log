@@ -1,0 +1,24 @@
+2026-02-14 10:52:54,956 - INFO - Account created for Srujana | Balance: 10000
+2026-02-14 10:52:54,956 - INFO - Bank     : SBI
+2026-02-14 10:52:54,956 - INFO - IFSC     : SBI0001
+2026-02-14 10:52:54,956 - INFO - Country  : India
+2026-02-14 10:52:54,956 - INFO - Name     : Srujana
+2026-02-14 10:52:54,956 - INFO - Age      : 21
+2026-02-14 10:52:54,956 - INFO - Phone    : 9866756345
+2026-02-14 10:52:54,956 - INFO - Balance  : 10000
+2026-02-14 10:52:54,956 - INFO - Withdrawn 5000 from Srujana | Remaining Balance: 5000
+2026-02-14 10:52:54,956 - WARNING - Invalid withdrawal amount for Srujana: -100
+2026-02-14 10:52:54,956 - WARNING - Invalid withdrawal amount for Srujana: 0
+2026-02-14 10:52:54,956 - ERROR - Withdrawal denied for Srujana | Min balance violation | Balance: 5000
+2026-02-14 10:52:54,956 - ERROR - Withdrawal denied for Srujana | Min balance violation | Balance: 5000
+2026-02-14 10:52:54,956 - WARNING - Invalid deposit amount for Srujana: -10
+2026-02-14 10:52:54,956 - INFO - Deposited 5000 to Srujana | Updated Balance: 10000
+2026-02-14 10:52:54,956 - INFO - Minimum balance updated to 2000
+2026-02-14 10:52:54,956 - INFO - Withdrawn 8000 from Srujana | Remaining Balance: 2000
+2026-02-14 10:52:54,956 - INFO - Bank     : SBI
+2026-02-14 10:52:54,956 - INFO - IFSC     : SBI0001
+2026-02-14 10:52:54,956 - INFO - Country  : India
+2026-02-14 10:52:54,956 - INFO - Name     : Srujana
+2026-02-14 10:52:54,956 - INFO - Age      : 21
+2026-02-14 10:52:54,956 - INFO - Phone    : 9866756345
+2026-02-14 10:52:54,956 - INFO - Balance  : 2000

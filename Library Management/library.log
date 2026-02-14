@@ -1,0 +1,13 @@
+2026-02-12 22:43:53,817 - INFO - Book profile created: Python by Guido
+2026-02-12 22:43:53,817 - INFO - Book issued: Python
+2026-02-12 22:43:53,817 - INFO - Fine calculated for Python | Days Late: 5 | Fine: 10
+2026-02-12 22:43:53,817 - INFO - Book returned: Python | Fine payed: 10
+2026-02-12 22:44:30,671 - INFO - Book profile created: Python by Guido
+2026-02-12 22:44:30,673 - INFO - Book issued: Python
+2026-02-12 22:44:30,673 - INFO - Fine calculated for Python | Days Late: 5 | Fine: 10
+2026-02-12 22:44:30,673 - INFO - Book returned: Python | Fine payed: 10
+2026-02-12 22:44:56,859 - INFO - Book profile created: Python by Guido
+2026-02-12 22:44:56,859 - INFO - Book issued: Python
+2026-02-12 22:44:56,859 - INFO - Fine calculated for Python | Days Late: 5 | Fine: 10
+2026-02-12 22:44:56,860 - INFO - Book returned: Python | Fine payed: 10
+2026-02-12 22:44:56,860 - INFO - Fine per day updated to 20

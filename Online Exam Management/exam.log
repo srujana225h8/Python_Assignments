@@ -1,0 +1,8 @@
+2026-02-12 23:27:32,914 - INFO - Exam profile created for Srujana
+2026-02-12 23:27:32,914 - INFO - Exam started for Srujana
+2026-02-12 23:27:32,914 - INFO - Exam Passed for Srujana | Marks: 80
+2026-02-12 23:27:32,914 - WARNING - Submit failed. Exam not started for Srujana
+2026-02-12 23:27:32,914 - INFO - Pass marks updated to 50
+2026-02-12 23:27:32,914 - INFO - Exam profile created for Swathi
+2026-02-12 23:27:32,914 - INFO - Exam started for Swathi
+2026-02-12 23:27:32,915 - WARNING - Exam Failed | Marks obtained 10 < Pass marks 50

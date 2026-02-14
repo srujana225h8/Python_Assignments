@@ -1,0 +1,6 @@
+2026-02-13 09:17:19,489 - INFO - Order profile created for Srujana
+2026-02-13 09:17:19,489 - INFO - Item added: Laptop | Price: 50000
+2026-02-13 09:17:19,489 - INFO - Item added: Mouse | Price: 1000
+2026-02-13 09:17:19,489 - INFO - Total calculated for Srujana | Subtotal: 51000 | Tax: 2550.0 | Total: 53550.0
+2026-02-13 09:17:19,491 - INFO - Order placed successfully for Srujana
+2026-02-13 09:17:19,491 - INFO - Order cancelled for Srujana
